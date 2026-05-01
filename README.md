@@ -1,4 +1,3 @@
-
 # Optimal Missile Guidance Using LQG Control
 
 This project implements an optimal missile guidance system based on the Linear Quadratic Gaussian framework.  
@@ -94,4 +93,3 @@ The full mathematical derivation, numerical implementation, and result analysis 
 ## Author
 
 Yuval Marmor
-EOF
