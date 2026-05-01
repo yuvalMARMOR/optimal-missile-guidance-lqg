@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # Optimal Missile Guidance Using LQG Control
 
 This project implements an optimal missile guidance system based on the Linear Quadratic Gaussian framework.  
