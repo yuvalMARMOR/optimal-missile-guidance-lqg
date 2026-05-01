@@ -5,7 +5,9 @@ The goal is to guide a pursuer toward a maneuvering target while minimizing the 
 
 The system combines optimal control, stochastic modeling, Riccati equation solvers, and Kalman filtering for state estimation under noisy measurements.
 
-![Missile Guidance Animation](media/missile_guidance.gif)
+<p align="center">
+  <img src="media/missile_guidance.gif" alt="Missile Guidance Animation" width="900">
+</p>
 
 ## Project Overview
 
